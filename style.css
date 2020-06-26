@@ -1,0 +1,44 @@
+.main {
+    border: 2px solid lightgray;
+    width: 200px;
+    margin: 0 auto;
+    background-color: lightgrey;
+    box-shadow: 2px 4px 5px gray;
+}
+
+.result {
+    width: 92.5%;
+    margin-top: 2px;
+    margin-left: 3.5px;
+    margin-right: 3.5px;
+    background-color: lightblue;
+    color: white;
+}
+
+.clearBtn {
+    color: blue;
+    width: 96.5%;
+    margin-top: 3px;
+    margin-right: 3.5px;
+    margin-left: 3.5px;;
+    background-color: lightgray;
+}
+
+.btn {
+    background-color: lightgray;
+    color: blue;
+    margin-top: 2px;
+    margin-right: 3.5px;
+    margin-left: 3.5px;
+    width: 40px;
+}
+
+.lastBtn {
+    background-color: lightgray;
+    color: blue;
+    margin-top: 2px;
+    margin-right: 3.5px;
+    margin-left: 3.5px;
+    margin-bottom: 2px;
+    width: 91px;
+}
